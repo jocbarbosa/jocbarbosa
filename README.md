@@ -17,9 +17,8 @@ You can use the website to generate badges: https://shields.io/
 <img width="45%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 👨🏽‍💻 I’m currently working as an IT Analyst;
-- 🌱 I’m currently studying microservices and CI/CD 
-- 🌱 I’m currently studying the Javascript Stack 
-- 🤔 I’m looking for help with Design Pattern 😭;
+- 🌱 I’m currently studying microservices and CI/CD; 
+- 🌱 I’m currently studying the Javascript Stack;
 
 **Languages and Tools:** 
 <p>
