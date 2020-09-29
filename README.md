@@ -11,8 +11,8 @@ I am João, currently working as an IT Analyst.
 
 - Learning
 
-| [<img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="24">](https://www.docker.com/)  | [<img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-vertical.svg" alt="Apache Kafka" width="24">](https://kafka.apache.org/) |  [<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="24">](https://flutter.dev/)|
-|---|---|---|
+| [<img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="24">](https://www.docker.com/)  | [<img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-vertical.svg" alt="Apache Kafka" width="24">](https://kafka.apache.org/) |  [<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="24">](https://flutter.dev/)| [<img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-vertical.svg" alt=".NET" width="24">](https://dotnet.microsoft.com/) |
+|---|---|---|---|
 
 ### Tools 🛠️
 
