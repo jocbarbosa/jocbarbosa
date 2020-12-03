@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am João, currently working as an IT Analyst.
+I am João, I'm a Web developer.
 
 ### Programming Languages 🌐
 
